@@ -1,1 +1,6 @@
 Sujeito Programador
+Google
+Apple
+Tesla
+Curso Git
+Youtube
