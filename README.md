@@ -1,8 +1,8 @@
 ![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
-[Bem vindo](#bem-vindo-ao-curso-de-git-e-github)
-[Módulos](#módulos)
-[Rede social](#rede-social)
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github) |
+[Módulos](#módulos) |
+[Rede social](#rede-social) |
 [Comando para rodar o projeto](#comando-para-rodar-o-projeto)
 
 # Bem vindo ao curso de Git e Github.
