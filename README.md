@@ -61,7 +61,8 @@ function showname(nome){
 
 Propriedade | Descrição
 ----------- | ---------
-name | informar nome do usuario
+name | informar **nome** do usuario
 size | definir o tamanho do campo
-background | Cor de fundo da area em HEX
+background | Cor de fundo da area em _HEX_
 onPress | função chamada quando clicar no botão
+logo do Github | ![Logo do github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oY75wq7pjaisRxOOPtY9ON_gpbGUzUIQUQ&usqp=CAU)
