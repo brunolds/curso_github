@@ -3,6 +3,7 @@
 [Bem vindo](#bem-vindo-ao-curso-de-git-e-github)
 [Módulos](#módulos)
 [Rede social](#rede-social)
+[Comando para rodar o projeto](#comando-para-rodar-o-projeto)
 
 # Bem vindo ao curso de Git e Github.
 Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissional._
