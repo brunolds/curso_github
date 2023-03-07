@@ -1,4 +1,4 @@
-![Logo do git] (https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 # Bem vindo ao curso de Git e Github.
 Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissional._
@@ -16,4 +16,4 @@ Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissiona
 
 ### Rede social:
 
-[Linkedin] (https://www.linkedin.com/in/brunolds1994/)
+[Linkedin](https://www.linkedin.com/in/brunolds1994/)
