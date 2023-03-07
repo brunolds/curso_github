@@ -19,3 +19,7 @@ Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissiona
 ### Rede social:
 
 [Linkedin](https://www.linkedin.com/in/brunolds1994/)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
