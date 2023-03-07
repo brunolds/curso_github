@@ -1,5 +1,9 @@
 ![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github)
+[Módulos](#módulos)
+[Rede social](#rede-social)
+
 # Bem vindo ao curso de Git e Github.
 Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissional._
 
@@ -29,7 +33,7 @@ Nesse curso vicê vai domintar todo **git** e **github** _do zero ao profissiona
 >
 >Segunda area destacada
 
-**Comando para rodar o projeto:**
+### Comando para rodar o projeto:
 ```
 npm start
 ```
